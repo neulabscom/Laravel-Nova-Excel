@@ -27,6 +27,12 @@
       "Maatwebsite\\LaravelNovaExcel\\": "src/"
     }
   },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/neulabscom/excel"
+    }
+  ],
   "extra": {
     "laravel": {
       "providers": [
