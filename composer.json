@@ -20,7 +20,7 @@
     "php": "8.*",
     "laravel/nova": "*",
     "laravie/serialize-queries": "^1.0|^2.0",
-    "neulabscom/excel": "4.1"
+    "neulabscom/laravel-excel": "4.1"
   },
   "autoload": {
     "psr-4": {
@@ -30,7 +30,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/neulabscom/excel"
+      "url": "https://github.com/neulabscom/laravel-excel"
     }
   ],
   "extra": {
